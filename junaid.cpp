@@ -16,7 +16,7 @@ int main(){
     int add;
     abc ob;
 
-    cout<<"the sum of first n natural numbers :" << endl;
+    cout<<"The sum of all number from 1 to n numbers :" << endl;
     cout<<"Enter the value of n :" << endl;
 
     cin >> n;
